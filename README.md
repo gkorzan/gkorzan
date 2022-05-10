@@ -6,7 +6,8 @@
 ### 📫 How to reach me:
 
 [<img align="left" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/ExperienceCooL)
-[<img align="left" alt="vk.com" src="https://img.shields.io/badge/vk.com-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />](https://www.vk.com/gleb_ml/)
+[<img align="left" alt="vk.com" src="https://img.shields.io/badge/vk.com-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" />](https://www.vk.com/gleb_ml/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleb-korzan-4654081a4/)
 
 <br>
 <br>
